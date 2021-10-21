@@ -78,6 +78,20 @@ public class Playlist {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
         
         final Object this$name = this.getName();
         final Object other$name = other.getName();
